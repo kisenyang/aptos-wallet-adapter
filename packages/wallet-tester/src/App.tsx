@@ -12,6 +12,7 @@ import {
   FletchWalletAdapter,
   AptosSnapAdapter,
   NightlyWalletAdapter,
+  BitgetWalletAdapter,
   BitkeepWalletAdapter,
   TokenPocketWalletAdapter,
   BloctoWalletAdapter,
@@ -50,6 +51,7 @@ const App: React.FC = () => {
       new FletchWalletAdapter(),
       new AptosSnapAdapter(),
       new NightlyWalletAdapter(),
+      new BitgetWalletAdapter(),
       new BitkeepWalletAdapter(),
       new TokenPocketWalletAdapter(),
       new BloctoWalletAdapter({

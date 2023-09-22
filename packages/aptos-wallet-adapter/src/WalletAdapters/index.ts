@@ -11,6 +11,7 @@ export * from './SpikaWallet';
 export * from './HyperPayWallet';
 export * from './FletchWallet';
 export * from './AptosSnap';
+export * from './BitgetWallet';
 export * from './BitkeepWallet';
 export * from './TokenPocketWallet';
 export * from './ONTOWallet';

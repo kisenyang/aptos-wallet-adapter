@@ -181,6 +181,7 @@ const MainPage = () => {
         'fewcha',
         'rise wallet',
         'snap',
+        'bitget wallet',
         'bitkeep',
         'blocto',
         'coin98',
